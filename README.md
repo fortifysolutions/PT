@@ -1,3 +1,4 @@
+#bash
 This script will ready your machine for Pentesting ready.
 Following are the things that will be installed by the script
 
