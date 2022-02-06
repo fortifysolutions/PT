@@ -27,8 +27,8 @@ Tools
 <h1>For installing</h1>
 
 git clone https://github.com/fortifysolutions/PT.git <br/>
-cd PT
-chmod +x setup.sh
-sudo ./setup.sh
+cd PT <br/>
+chmod +x setup.sh <br/>
+sudo ./setup.sh <br/>
 
 
