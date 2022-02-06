@@ -24,11 +24,11 @@ Tools
     JexBoss
     
     
-#For installing
+<h1>For installing</h1>
 
-#git clone https://github.com/fortifysolutions/PT.git
-#cd PT
-#chmod +x setup.sh
-#sudo ./setup.sh
+git clone https://github.com/fortifysolutions/PT.git
+cd PT
+chmod +x setup.sh
+sudo ./setup.sh
 
 
